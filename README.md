@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Ikarius-X
+- 👀 I’m interested in Python, Java, C++ and anything related
